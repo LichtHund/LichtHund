@@ -1,16 +1,32 @@
 ### Hi there 👋
 
-<!--
-**ipsk/ipsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Mateus Moreira, but most call me Matt, I am 24yo, was born in Brazil but have lived most of my life in Portugal.<br/>
+I am mostly self taught with a big love for Kotlin.
 
-Here are some ideas to get you started:
+<p>
+  <h2 align="center">Some projects I'm working on</h2>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<p align="center">
+  
+  <a href="https://github.com/Sxtanna/korm/">
+    <img src="https://i.imgur.com/UkyJixN.jpg" alt="logo" width="149" height="139">
+  </a>
+  <span> </span> 
+  <a href="https://github.com/GoLangMc/minecraft-server">
+    <img src="https://i.imgur.com/0OqZI8N.jpg" alt="logo" width="149" height="139">
+  </a>
+  <span> </span> 
+  <a href="https://github.com/GoLangMc/minecraft-server">
+    <img src="https://i.imgur.com/xBRov0c.jpg" alt="logo" width="149" height="139">
+  </a>
+  
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ipsk&show_icons=true&theme=onedark">
+</p>
+
